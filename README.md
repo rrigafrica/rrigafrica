@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rrigafrica
 - 👀 I’m interested in private blockchain services
-- 🌱 I’m currently learning project management 
+- 🌱 I’m into product/project management 
 - 💞️ I’m looking to collaborate on blockchain development technologies
 - 📫 How to reach me rrigafrica@gmail.com
 
